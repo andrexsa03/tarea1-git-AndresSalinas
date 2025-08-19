@@ -19,6 +19,9 @@ En proceso de aprendizaje
 - Python
 - HTML, CSS, JavaScript
 
+##Mi obtetivo en el bootcamp
+
+
 ##Proyectos y aplicaciones desarrolladas
 - **Sistema de Gestión de Estudiantes** (Java + MySQL )  
 - **Mini sistema de inventario** en Oracle SQL  
