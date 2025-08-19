@@ -19,7 +19,8 @@ En proceso de aprendizaje
 - Python
 - HTML, CSS, JavaScript
 
-##Mi obtetivo en el bootcamp
+##Mi obtetivo en el bootcamp. 
+Corrijo mi cambios
 
 
 ##Proyectos y aplicaciones desarrolladas
